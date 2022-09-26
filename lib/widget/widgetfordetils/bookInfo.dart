@@ -71,7 +71,7 @@ class BookInfo extends StatelessWidget {
                               color: Colors.white,
                               borderRadius: BorderRadius.circular(30),
                             ),
-                            child: FlatButton(
+                            child: MaterialButton(
                               onPressed: () {},
                               child: Text(
                                 "Read",
